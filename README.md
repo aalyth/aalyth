@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hello there 👋
+### I'm a 11th grade student @ELSYS
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aalyth&show_icons=true&theme=solarized-light&bg_color=fffefe"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalyth&layout=compact&theme=solarized-light&bg_color=fffefe"/>
+</p>
 
 <!--
 **aalyth/aalyth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
